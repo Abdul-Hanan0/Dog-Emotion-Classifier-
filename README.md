@@ -19,4 +19,9 @@ Animal Researchers can use it for behavioral analysis at scale.
 
 The dataset was sourced from ---, containing labeled images of dogs in different emotional states. Each image is tagged with one of the four emotions: happy, sad, angry, or relaxed. The dataset includes a diverse range of breeds and lighting conditions to help build a robust model.
 
+🔷Demo
+model was deployed on hugging face you can try it from here
+also trained model was stored in hugging face due to large size
+https://huggingface.co/spaces/Hanan-1tx/Dog_Emotion_Classifier
+
 
